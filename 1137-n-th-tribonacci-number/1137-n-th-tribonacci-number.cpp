@@ -1,14 +1,18 @@
 class Solution {
 public:
+    int arr[39]={0};
     int tribonacci(int n) {
-        int arr[n+10];
-        arr[0]=0;
-        arr[1]=1;
-        arr[2]=1;
-        for(int i=3;i<=n;i++)
+        //Base Case
+        
+        if(n<=0)
+            return 0;
+        else if(n==1)return 1;
+        else if(n==2)return 1;
+        else if(arr[n]!=0)
+            return arr[n];
+        else
         {
-            arr[i]=arr[i-1]+arr[i-2]+arr[i-3];
+            return arr[n]= tribonacci(n-1)+tribonacci(n-2)+tribonacci(n-3);
         }
-        return arr[n];
     }
 };
