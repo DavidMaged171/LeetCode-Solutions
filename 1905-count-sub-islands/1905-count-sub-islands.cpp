@@ -42,7 +42,6 @@ public:
                 }
                 if(isIsland)
                 {
-                    cout<<i<<" "<<g<<endl;
                     sum++;
                 }
             }
