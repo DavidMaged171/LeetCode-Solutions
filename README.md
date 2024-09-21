@@ -23,4 +23,12 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
