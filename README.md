@@ -6,6 +6,7 @@ Collection of LeetCode questions.
 ## String
 |  |
 | ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2470-removing-stars-from-a-string](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -19,6 +20,7 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
