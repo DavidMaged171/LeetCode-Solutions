@@ -33,4 +33,8 @@ Collection of LeetCode questions.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
