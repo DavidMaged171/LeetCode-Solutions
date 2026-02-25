@@ -6,6 +6,7 @@ Collection of LeetCode questions.
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2470-removing-stars-from-a-string](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -44,4 +45,8 @@ Collection of LeetCode questions.
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
