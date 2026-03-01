@@ -6,6 +6,7 @@ Collection of LeetCode questions.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2470-removing-stars-from-a-string](https://github.com/DavidMaged171/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
